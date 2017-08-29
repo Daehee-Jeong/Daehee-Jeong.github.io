@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Daehee-Jeong
+email: dev.james.jeong@gmail.com
+description: Talk is Cheap. Show me the code.
 url: # the base hostname & protocol for your site
 
 
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Leonids
   avatar: leonids-logo.png
-  job: "A jekyll theme"
+  job: "Android & Spring Framework Developer"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
