@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Daehee-Jeong
+title: Daehee-Jeong BLOG
 email: dev.james.jeong@gmail.com
 description: Talk is Cheap. Show me the code.
-url: https://daehee-jeong.github.io # the base hostname & protocol for your site
+url: https://daehee-jeong.github.io
 
 
 #
@@ -40,7 +40,7 @@ owner:
   email: dev.james.jeong@gmail.com
   disqus-shortname:
   twitter: hee1217 #username
-  facebook: hee1217@naver.com #username
+  facebook: hee1217 #username
   google:
     plus: #username
     analytics:
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: Daehee-Jeong #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: dae_e #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
