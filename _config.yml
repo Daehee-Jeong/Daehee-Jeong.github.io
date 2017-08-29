@@ -6,7 +6,7 @@
 title: Daehee-Jeong
 email: dev.james.jeong@gmail.com
 description: Talk is Cheap. Show me the code.
-url: # the base hostname & protocol for your site
+url: https://daehee-jeong.github.io # the base hostname & protocol for your site
 
 
 #
@@ -34,13 +34,13 @@ kramdown:
 #
 owner:
   name: Daehee-Jeong
-  avatar: daehee.png
+  avatar: daehee.jpg
   job: "Android & Spring Framework Developer"
   bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  email: dev.james.jeong@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: hee1217 #username
+  facebook: hee1217@naver.com #username
   google:
     plus: #username
     analytics:
