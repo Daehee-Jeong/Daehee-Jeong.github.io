@@ -2,6 +2,9 @@
 .cover {
   background-color: $background-color;
   background-image: url('/img/sidebar-back2.jpg');
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;    
   position: fixed;
   text-align: center;
   width: 100%;
@@ -9,10 +12,14 @@
   padding: 30px 15px 20px;
   z-index: 1;
   @include media-query($small-screen) {
+    background-size: 100% auto;
     background-position: center;
+    background-repeat: no-repeat;
     padding: 30px;
   }
   @include media-query($medium-screen) {
+    background-size: auto 100%;
+    background-repeat: no-repeat;
     height: 100vh;
     position: initial;
     width: 100%;
