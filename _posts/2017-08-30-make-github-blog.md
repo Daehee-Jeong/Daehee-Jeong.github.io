@@ -42,10 +42,10 @@ $ sudo gem install jekyll
 Jekyll 을 이용해 제작된 많은 테마들이 http://jekyllthemes.org/ 사이트에 등록되어있습니다. 사용 방법은 큰 맥락에서 모두 동일하기 때문에 원하는 테마를 선택하시면 됩니다. 본 포스트에서는 가장 기본적이며 많이 사용되는 템플릿인 'jekyll-now' 를 적용해보도록 하겠습니다.
 
 링크에 들어가서 fork 를 클릭합니다. (https://github.com/barryclark/jekyll-now)
-![No Image](/assets/20170830/make-github-blog-01.png)
+![No Image](../assets/20170830/make-github-blog-01.png)
 
 다음과 같은 화면이 나오면서 fork 가 진행됩니다.
-![No Image](/assets/20170830/make-github-blog-02.png)
+![No Image](../assets/20170830/make-github-blog-02.png)
 
 fork 가 완료되면 다음과 같이 자신의 Repository 에 프로젝트가 fork 된 것을 확인할 수 있습니다.
-![No Image](/assets/20170830/make-github-blog-03.png)
+![No Image](../assets/20170830/make-github-blog-03.png)
