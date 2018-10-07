@@ -32,22 +32,22 @@ date: 2018-10-07
 ##프로젝트 환경 구성
 
 * 프로젝트 생성: 자바 1.8버전을 설정하였습니다.
-![No Image](../../assets/20181007/01.png)
+![No Image](/assets/20181007/01.png)
 <br>
 * Dependency 설정 01 (Core)
-![No Image](../../assets/20181007/02.png)
+![No Image](/assets/20181007/02.png)
 생성자 및 Getter/Setter의 간편한 설정을 위해 Lombok을 추가하였습니다.
 <br>
 * Dependency 설정 02 (Web)
-![No Image](../../assets/20181007/03.png)
+![No Image](/assets/20181007/03.png)
 웹프로젝트 구성을 위한 Web, 손쉬운 RestAPI 구축 및 테스팅/확인을 위해 Rest Repositories, Rest Repositories HAL Browser를 추가하였습니다.
 <br>
 * Dependency 설정 03 (Template Engines)
-![No Image](../../assets/20181007/04.png)
+![No Image](/assets/20181007/04.png)
 사내 환경에서는 템플릿 엔진으로 jsp가 일반적이었지만, Springboot와 가장 친숙한 Thymeleaf로 설정하여 진행하였습니다.
 <br>
 * Dependency 설정 04 (SQL)
-![No Image](../../assets/20181007/05.png)
+![No Image](/assets/20181007/05.png)
 JPA 추가, H2를 추가하여 로컬 테스팅시 활용하기로 하였습니다.
 <br>
 * application.properties 설정
