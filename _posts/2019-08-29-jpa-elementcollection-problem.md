@@ -49,7 +49,7 @@ public class Child {
     private String name;
 }
 ```
-
+ 
 다음과 같이 클래스를 정의했을 때 다음과 같은 스키마를 얻을 수 있습니다.
 
 ```sql
