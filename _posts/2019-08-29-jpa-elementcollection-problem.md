@@ -6,7 +6,7 @@ excerpt: ""
 comments: true
 share: true
 tags: [JPA]
-date: 2018-10-07
+date: 2019-08-29
 ---
 
 일대다 맵핑을 할 경우에 `@ElementCollection`을 사용할 수 있습니다.
