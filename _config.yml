@@ -5,7 +5,7 @@
 #
 title: Daehee-Jeong BLOG
 email: dev.james.jeong@gmail.com
-description: Talk is Cheap. Show me the code.
+description: To dare is to do.
 url: https://daehee-jeong.github.io
 
 
@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Daehee-Jeong
   avatar: daehee.jpg
-  job: "Android & Spring Framework Developer"
-  bio: "Talk is Cheap. Show me the code."
+  job: "Java Developer"
+  bio: "To dare is to do"
   email: dev.james.jeong@gmail.com
   disqus-shortname: daehee-jeong
   twitter: hee1217 #username
