@@ -63,6 +63,7 @@ String newStr = Objects.requireNonNull(str);
 ```
 
 변형으로 아래와 같이 사용하는 것도 가능합니다.
+**(아래 예시는 Java 9부터 사용이 가능합니다)**
 
 ```java
 /* NPE를 던지지 않고 대체 값을 부여하는 방법 */
@@ -84,5 +85,6 @@ https://multifrontgarden.tistory.com/205
 https://thebook.io/006985/ch05/01/09/
 
 >**수정이력**  
+2019.09.16 requireNonNull 메서드 지원버전 내용 추가    
 2019.09.14 requireNonNull 내용 추가  
 2019.09.11 최초작성
