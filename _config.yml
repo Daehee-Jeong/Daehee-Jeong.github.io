@@ -35,12 +35,12 @@ kramdown:
 owner:
   name: daeheejeong
   avatar: daehee.jpg
-  job: "Java Developer"
+  job: "Backend Developer"
   bio: "To dare is to do"
   email: dev.james.jeong@gmail.com
-  disqus-shortname: daehee-jeong
-  twitter: hee1217 #username
-  facebook: hee1217 #username
+  disqus-shortname: daeheejeong
+  twitter: #username
+  facebook: #username
   google:
     plus: #username
     analytics:

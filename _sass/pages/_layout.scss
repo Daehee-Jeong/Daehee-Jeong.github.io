@@ -76,7 +76,7 @@
       margin-left: 1em;
       a.social-link-item {
         color: $secondary;
-        /*color: #fff;*/
+        color: #fff;
         &:hover,
         &:focus {
           color: lighten($secondary, 14%);
@@ -105,7 +105,7 @@
       text-transform: lowercase;
       font-size: 85%;
       color: $secondary;
-      /*color: #fff;*/
+      color: #fff;
       &:hover,
       &:focus {
         color: lighten($secondary, 14%);
