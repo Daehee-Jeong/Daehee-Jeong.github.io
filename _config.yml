@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: daeheejeong BLOG
+title: daeki's devlog
 email: dev.james.jeong@gmail.com
 description: To dare is to do.
 url: https://daeheejeong.github.io
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: daeheejeong
+  name: daeki's devlog
   avatar: daehee.jpg
-  job: "Backend Developer"
-  bio: "To dare is to do"
+  job: Daehee Jeong
+  bio: "To dare is to do\n자바 백엔드 개발자의 개발일지"
   email: dev.james.jeong@gmail.com
   disqus-shortname: daeheejeong
   twitter: #username
