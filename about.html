@@ -5,5 +5,28 @@ permalink: /about/
 ---
 
 <div class="row">
-    Hi
+    <div>
+        <h3>Daehee Jeong (정대희)</h3>
+        <ul>
+            <li>Pangyo, South Korea</li>
+            <li>Back-end Software Engineer</li>
+            <li>Working in <a href="www.airpremia.com">Air PREMIA</a></li>
+        </ul>
+        <br/>
+        <hr>
+        <br/>
+        <h3>Activities</h3>
+        <br/>
+        <h4>Github</h4>
+        <p><img src="https://ghchart.rshah.org/daeheejeong" alt="Github Contributions Chart"></p>
+        <br/>
+        <h4>History</h4>
+        <div class="archive">
+            <div class="timeline" id="timeline">
+              {% for career in site.data.index.careers %}
+                    <div class="archive-title"><div class="archive-year"><strong>{{ career.date }}</strong> {{ career.job }} @ <a href="{{ career.link }}">{{ career.name }}</a></div></div>
+              {% endfor %}
+            </div>
+        </div>
+    </div>
 </div>
