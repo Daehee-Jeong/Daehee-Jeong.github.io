@@ -18,7 +18,7 @@ date: 2019-08-29
 부모(Parent)와 자식(Child) 클래스가 있다고 가정.
 
 예시) 부모클래스
-```java
+{% highlight java %}
 @Entity
 public class Parent {
     @Id
@@ -30,7 +30,7 @@ public class Parent {
     @ElementCollection
     private Children children;
 }
-```
+{% endhighlight %}
 
 예시) 자식클래스 일급컬렉션
 ```java
