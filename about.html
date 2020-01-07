@@ -10,7 +10,7 @@ permalink: /about/
         <ul>
             <li>Pangyo, South Korea</li>
             <li>Back-end Software Engineer</li>
-            <li>Working in <a href="www.airpremia.com">Air PREMIA</a></li>
+            <li>Working in <a href="http://www.airpremia.com" target="_blank">Air PREMIA</a></li>
         </ul>
         <br/>
         <hr>
@@ -24,7 +24,7 @@ permalink: /about/
         <div class="archive">
             <div class="timeline" id="timeline">
               {% for career in site.data.index.careers %}
-                    <div class="archive-title"><div class="archive-year"><strong>{{ career.date }}</strong> {{ career.job }} @ <a href="{{ career.link }}">{{ career.name }}</a></div></div>
+                    <div class="archive-title"><div class="archive-year"><strong>{{ career.date }}</strong> {{ career.job }} @ <a href="{{ career.link }}" target="_blank">{{ career.name }}</a></div></div>
               {% endfor %}
             </div>
         </div>
